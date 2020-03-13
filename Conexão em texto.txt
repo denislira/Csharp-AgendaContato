@@ -1,0 +1,3 @@
+Data Source=.\SQLEXPRESS;AttachDbFilename="C:\Program Files\Microsoft SQL Server\MSSQL10.SQLEXPRESS\MSSQL\DATA\AGENDA.mdf";Integrated Security=True;Connect Timeout=30;User Instance=True
+
+C:\Users\Dênis\AppData\Local\Microsoft\VisualStudio\SSDT

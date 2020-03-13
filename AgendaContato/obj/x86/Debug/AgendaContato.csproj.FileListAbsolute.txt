@@ -1,0 +1,16 @@
+d:\documentos\visual studio 2010\Projects\AgendaContato\AgendaContato\bin\Debug\AgendaContato.exe
+d:\documentos\visual studio 2010\Projects\AgendaContato\AgendaContato\bin\Debug\AgendaContato.pdb
+d:\documentos\visual studio 2010\Projects\AgendaContato\AgendaContato\obj\x86\Debug\AgendaContato.Form1.resources
+d:\documentos\visual studio 2010\Projects\AgendaContato\AgendaContato\obj\x86\Debug\AgendaContato.Properties.Resources.resources
+d:\documentos\visual studio 2010\Projects\AgendaContato\AgendaContato\obj\x86\Debug\AgendaContato.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2010\Projects\AgendaContato\AgendaContato\obj\x86\Debug\AgendaContato.exe
+d:\documentos\visual studio 2010\Projects\AgendaContato\AgendaContato\obj\x86\Debug\AgendaContato.pdb
+D:\Documentos\Visual Studio 2010\Projects\AgendaContato\AgendaContato\obj\x86\Debug\AgendaContato.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2010\Projects\Antigos\AgendaContato\AgendaContato\obj\x86\Debug\AgendaContato.exe
+D:\Documentos\Visual Studio 2010\Projects\Antigos\AgendaContato\AgendaContato\obj\x86\Debug\AgendaContato.pdb
+D:\Documentos\Visual Studio 2010\Projects\Antigos\AgendaContato\AgendaContato\bin\Debug\AgendaContato.exe
+D:\Documentos\Visual Studio 2010\Projects\Antigos\AgendaContato\AgendaContato\bin\Debug\AgendaContato.pdb
+D:\Documentos\Visual Studio 2010\Projects\Antigos\AgendaContato\AgendaContato\obj\x86\Debug\AgendaContato.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2010\Projects\Antigos\AgendaContato\AgendaContato\obj\x86\Debug\AgendaContato.Form1.resources
+D:\Documentos\Visual Studio 2010\Projects\Antigos\AgendaContato\AgendaContato\obj\x86\Debug\AgendaContato.Properties.Resources.resources
+D:\Documentos\Visual Studio 2010\Projects\Antigos\AgendaContato\AgendaContato\obj\x86\Debug\AgendaContato.csproj.GenerateResource.Cache
